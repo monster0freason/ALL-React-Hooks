@@ -2,7 +2,7 @@
 
 **Introduction:**
 Welcome to the comprehensive tutorial on React hooks! In this tutorial, we'll delve into the intricacies of React hooks, exploring their various types, use cases, and best practices. Whether you're a beginner or an experienced developer, this repository will equip you with the knowledge and skills to leverage React hooks effectively in your projects.
-![AllHooks](C:\Users\ankit\OneDrive\Desktop\VI sem\GO\ALL-React-Hooks\images\AllHooks.png)
+![AllHooks](images/AllHooks.png)
 
 
 **Content:**
