@@ -6,14 +6,14 @@ Welcome to the comprehensive tutorial on React hooks! In this tutorial, we'll de
 
 
 **Content:**
-1. [State Management Hooks](#state-management-hooks)
-2. [Effect Hooks](#effect-hooks)
-3. [Ref Hooks](#ref-hooks)
-4. [Performance Hooks](#performance-hooks)
-5. [Context Hooks](#context-hooks)
-6. [Transition Hooks](#transition-hooks)
-7. [Random Hooks](#random-hooks)
-8. [New Hooks in React 19](#new-hooks-in-react-19)
+1. [State Management Hooks](#State-Management-Hooks)
+2. [Effect Hooks](#Effect-Hooks)
+3. [Ref Hooks](#Ref-Hooks)
+4. [Performance Hooks](#Performance-Hooks)
+5. [Context Hooks](#Context-Hooks)
+6. [Transition Hooks](#Transition-Hooks)
+7. [Random Hooks](#Random-Hooks)
+8. [New Hooks in React 19](#New-Hooks-in-React-19)
 
 **State Management Hooks:**
 - **useState:**
