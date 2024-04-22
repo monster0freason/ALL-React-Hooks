@@ -4,7 +4,6 @@
 Welcome to the comprehensive tutorial on React hooks! In this tutorial, we'll delve into the intricacies of React hooks, exploring their various types, use cases, and best practices. Whether you're a beginner or an experienced developer, this repository will equip you with the knowledge and skills to leverage React hooks effectively in your projects.
 ![AllHooks](images/AllHooks.png)
 
-
 **Content:**
 1. [State Management Hooks](#state-management-hooks)
 2. [Effect Hooks](#effect-hooks)
@@ -113,9 +112,7 @@ Welcome to the comprehensive tutorial on React hooks! In this tutorial, we'll de
   - **Explanation:** This useMemo hook memoizes the result of `computeExpensiveValue` function based on the dependencies `[a, b]`. It ensures that the function is only recomputed when `a` or `b` changes.
 
 - **useCallback:**
-  - **Description:** useCallback is similar to useMemo but specifically used for memoizing callback
-
- functions. It returns a memoized callback function that only changes if one of its dependencies has changed.
+  - **Description:** useCallback is similar to useMemo but specifically used for memoizing callback functions. It returns a memoized callback function that only changes if one of its dependencies has changed.
   - **Best Use Cases:** useCallback is useful for preventing unnecessary re-renders in child components when passing callbacks as props, especially in scenarios where callback functions are recreated on each render.
   - **Example:**
     ```javascript
